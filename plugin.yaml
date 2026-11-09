@@ -1,0 +1,8 @@
+name: hermes-lang-tr
+version: 1.0.0
+description: Turkish (Türkçe) language pack for Hermes — core, TUI and Desktop
+requires_hermes: ">=0.21.6"
+provides_locales:
+  - id: tr
+    endonym: Türkçe
+    rtl: false

@@ -1,0 +1,12 @@
+hermes-lang-tr
+
+The Turkish strings in `locales/` are an independent community translation by
+the pack's authors, prepared with AI assistance from the English catalogs of
+NousResearch/hermes-agent (MIT License). The key names and the English source
+text they translate belong to hermes-agent.
+
+Hermes ships a bundled Turkish catalog for the CLI and messaging gateway
+(`locales/tr.yaml`) and for the TUI (`locales/tr.tui.yaml`); the Desktop app
+has no bundled Turkish catalog. This pack ships all three surfaces, so it both
+fills the Desktop gap and overrides the bundled Turkish wording where the
+community translation differs.
